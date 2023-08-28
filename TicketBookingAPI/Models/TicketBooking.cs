@@ -7,5 +7,8 @@
         public string? ClientName { get; set; }
         public int rank { get; set; }
         public int years { get; set; }
+
+        public int rank2 { get; set; }
+        public int years2 { get; set; }
     }
 }
