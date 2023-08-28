@@ -6,6 +6,6 @@
         public int TicketNumber { get; set; }
         public string? ClientName { get; set; }
         public int rank { get; set; }
-
+        public int years { get; set; }
     }
 }
